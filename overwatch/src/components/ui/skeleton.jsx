@@ -1,0 +1,2 @@
+// TODO: skeleton.jsx
+export {};

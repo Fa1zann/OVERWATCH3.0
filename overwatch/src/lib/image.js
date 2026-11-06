@@ -1,0 +1,2 @@
+// TODO: image.js
+export {};

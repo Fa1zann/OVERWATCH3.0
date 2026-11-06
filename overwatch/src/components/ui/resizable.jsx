@@ -1,0 +1,2 @@
+// TODO: resizable.jsx
+export {};

@@ -1,0 +1,2 @@
+// TODO: avatar.jsx
+export {};
